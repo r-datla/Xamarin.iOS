@@ -1,0 +1,10 @@
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/bin/iPhoneSimulator/Debug/ClosestStores.exe
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/bin/iPhoneSimulator/Debug/ClosestStores.pdb
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/obj/iPhoneSimulator/Debug/ClosestStores.csproj.CoreCompileInputs.cache
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/obj/iPhoneSimulator/Debug/ClosestStores.exe
+/Users/rijuthadatla/Desktop/XamarinProjects/ClosestStores/ClosestStores/obj/iPhoneSimulator/Debug/ClosestStores.pdb
